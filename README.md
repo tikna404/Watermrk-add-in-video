@@ -1,4 +1,4 @@
-# Watermrk-add-in-video
+# Video Editing Script with MoviePy
 
 This Python script uses the `moviepy` library to add a text overlay to the first 30 seconds of a video file. The resulting video is saved as a new file.
 
